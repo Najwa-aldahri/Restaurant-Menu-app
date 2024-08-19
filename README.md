@@ -1,7 +1,12 @@
 # Restaurant Menu app
+Welcom to Restaurant Menu app in this application the challenge was to match the given design from figma file 
 
-**Complete and submit the TabBar, Bottom Sheet, and Alert dialog Lab of the given design**
+## widget used
+- TabBar
+Purpose: Displays a horizontal list of tabs, allowing users to switch between different views.
+- AlertDialog 
+widget is used to display an alert dialog, a modal window that prompts the user to make a decision or presents them with important information.
 
-**Note: Don't forget to include the Screenshots of your implementation**
+## Output
+https://github.com/user-attachments/assets/a77dc757-2278-4043-9d69-011e3b8f0814
 
-**Deadline: at 9:59 am, 20 Aug 2024**
